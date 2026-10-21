@@ -1,4 +1,4 @@
-# handwriting-hwpx — 손글씨 OCR 스튜디오
+# handwriting-ocr — 손글씨 OCR 스튜디오
 
 학생 손글씨(사진·스캔·PDF)를 Gemini(gemini-flash-latest)로 문맥까지 읽어 MD로 옮기고, 양식1(2단)·양식2(1단) hwpx 문서로 내보내는 단일 HTML 웹앱입니다. `index.html`(= `손글씨OCR.html`)을 브라우저로 열면 됩니다.
 
